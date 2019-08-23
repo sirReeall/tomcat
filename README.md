@@ -7,9 +7,9 @@ Currently this role only download the require tomcat version for ACS 6.1.
 Requirements
 ------------
 
-Tomcat requires that Java is installed. The Tomcat requirements can be found here [link](https://tomcat.apache.org/tomcat-8.0-doc/setup.html)
+Tomcat requires that Java is installed. The Tomcat requirements can be found [here](https://tomcat.apache.org/tomcat-8.0-doc/setup.html)
 
-I have created an Ansible role that can install Java, this can be used in comination with this role. You can find this in either GitHub [link](https://github.com/sirReeall/java)
+I have created an Ansible role that can install Java, this can be used in comination with this role. You can find this in either [GitHub](https://github.com/sirReeall/java) or [Ansible-Galaxy](https://galaxy.ansible.com/sirreeall/java)
 
 Role Variables
 --------------
