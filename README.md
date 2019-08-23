@@ -1,5 +1,6 @@
 tomcat
 =========
+[![Build Status](https://travis-ci.org/sirReeall/tomcat.svg?branch=master)](https://travis-ci.org/sirReeall/tomcat)
 
 Currently this role only download the require tomcat version for ACS 6.1.
 
